@@ -1,5 +1,5 @@
 
-# 📊 **Google Stock Price Prediction **  
+# 📊 **Google Stock Price Prediction**  
 
 ## 🔍 **Project Overview**  
 Stock price prediction is a challenging task due to the volatility and randomness of financial markets. This project applies **time series analysis** and **machine learning** 🤖 to predict **Google's stock prices** based on historical data. By analyzing past trends and patterns, the model aims to provide insights into future price movements.  
